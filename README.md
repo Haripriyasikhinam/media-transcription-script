@@ -57,6 +57,5 @@ pip install -r requirements.txt
 ## Contributing
 Pull requests are welcome! If you find any issues, please open an issue on GitHub.
 
-## License
-This project is licensed under the MIT License.
+
 
